@@ -1,0 +1,243 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFaGFNbQliaqdUByRvpVuCzq5K1mLyPmModQ&usqp=CAU" group-title="CANAIS ABERTOS",REDE BANDEIRANTES
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w16814077.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJNcvGYMMWSj3eb0FSAtcPAYTQOL6oysjPsw&usqp=CAU" group-title="CANAIS ABERTOS",REDE GLOBO 
+http://rec2.distv.net:80/lourival/lourival/15
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSeN2qSSTVgi3ITS4CbxGDz9WRUiXnGvpE4qA&usqp=CAU" group-title="CANAIS ABERTOS",RECORDTV
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTxGb1gHpd3z6EVgOa9hsHbSMVRYzUvLDc3gA&usqp=CAU" group-title="CANAIS ABERTOS",REDETV
+http://origin-02.nxplay.com.br/REDETV_HD_SIMBA/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTgIXE0f3yi-wCnyWyW9Q_ZfZfR3iS-IAOknw&usqp=CAU" group-title="CANAIS ABERTOS",TVCULTURA
+http://tvdns.tech:80/768685875765/768685775775/757702
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTukPzSZWP2Vkp4ra8IlMNroo0Iy8qwd5F75Q&usqp=CAU" group-title="CANAIS ABERTOS",TVGAZETA
+http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8?IMDSFULL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ4SR7cYDyzOSdz7MK7PXaG7jsl5uczFBZhYA&usqp=CAU" group-title="CANAIS ABERTOS",SBT
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856528
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/playboy1.png"group-title="CANAIS ADULTOS+18",PLAYBOY
+http://tvdns.tech:80/768685875765/768685775775/758254
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/venus1.png"group-title="CANAIS ADULTOS+18",VENUS
+http://tvdns.tech:80/768685875765/768685775775/758248
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/sextreme1.png"group-title="CANAIS ADULTOS+18",SEXYTREME
+
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/sexhot1.png"group-title="CANAIS ADULTOS+18",SEXYHOT
+http://tvdns.tech:80/768685875765/768685775775/758250
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Capas/2.png"group-title="CANAIS ADULTOS+18",TRANS1
+https://www.ast.tv/stream/1/high.m3u8?IMDSFULL
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Capas/2.png"group-title="CANAIS ADULTOS+18",TRANS2
+https://www.ast.tv/stream/2/cellular.m3u8?IMDSFULL
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Capas/2.png"group-title="CANAIS ADULTOS+18",LESBICAS
+http://live.redtraffic.xyz/lesbian.m3u8?IMDSFULL
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Capas/2.png"group-title="CANAIS ADULTOS+18",BISSEXUAL
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQdFpgTWzx8W5nHIKghFHkO_ja0dO-ShAwcHw&usqp=CAU"group-title="CANAIS DE DOCUMENTÁRIOS",ANIMAL PLANET
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856284
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSMYOCPEORHdw7mEfjyFpoRh70JOanW1eGldA&usqp=CAU"group-title="CANAIS DE DOCUMENTÁRIOS",HISTORY(1)
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856294
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRNOy4pV0n1pI_0_xIjFg0sKQ7gQt6cobO1Xw&usqp=CAU"group-title="CANAIS DE DOCUMENTÁRIOS",HISTORYS(2)
+http://pe1b.distv.net:8080/Gerson/123456/166
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRoFjzQATEbn4G0oka32CgTvt78QMwAXMUBgw&usqp=CAU"group-title="CANAIS DE DOCUMENTÁRIOS",DISCOVERY HOME HEALTH
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856074
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTA2TUxaqgXQpO9j7Wlbguc35-D2X__vI40eA&usqp=CAU"group-title="CANAIS DE DOCUMENTÁRIOS",DISCOVERY THEATER
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856049
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxuyGcDOjyb60dG5c917rLV0xcoUVwqfiS8g&usqp=CAU"group-title="CANAIS DE DOCUMENTÁRIOS",DISCOVERY WORLD 
+http://rec2.distv.net:80/lourival/lourival/137
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRjInx28uJ93Try1c8N-Ac7aW1ncy3TduxuPw&usqp=CAU"group-title="CANAIS DE DOCUMENTÁRIOS",DISCOVERY SCIENCE
+http://rec2.distv.net:80/lourival/lourival/134
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTca4EpyYJQFvIItC00sZg-1WqKpHUWRU9ENA&usqp=CAU"group-title="CANAIS DE DOCUMENTÁRIOS",DISCOVERY CHANNEL
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856041
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR9erDmcosM5X5Tx0UjDChusADFB1BFQ3gm8g&usqp=CAU"group-title="CANAIS DE DOCUMENTÁRIOS",DISCOVERY CIVILIZATION
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTZBOvQbvfocC-bEamG7cNIVzzYCGsws8tXGg&usqp=CAU"group-title="CANAIS DE DOCUMENTÁRIOS",DISCOVERY TURBO
+http://rec2.distv.net:80/lourival/lourival/136
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROnbEpQPvAi7AMnBli7mg3V_CFK47uJHculw&usqp=CAU"group-title="CANAIS DE DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856069
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTxeXdOT4hAgHd8aIZ5zwmJEL_kSSLQP5y8Dw&usqp=CAU"group-title="CANAIS DE DOCUMENTÁRIOS",NATGEO WILD 
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856311
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTDdxhXuZyGLKNJYi01UjkmEv0fHDWgxRRQsg&usqp=CAU"group-title="CANAIS DE ESPORTES",CANAL COMBATE
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856190
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS53Qr7RSZ_4z0A3NcM-nlqZiDaBEMyiViAoA&usqp=CAU"group-title="CANAIS DE ESPORTES",ESPN(1)
+http://pe1b.distv.net:8080/Gerson/123456/142
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS53Qr7RSZ_4z0A3NcM-nlqZiDaBEMyiViAoA&usqp=CAU"group-title="CANAIS DE ESPORTES",ESPN(2)
+http://tvdns.tech:80/768685875765/768685775775/758165
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTMV6Vm9pydMZrrLdNEHtE9wMUm12eMtrqN5A&usqp=CAU"group-title="CANAIS DE ESPORTES",ESPN BRASIL
+http://srv-source.stream:80/toptv/XGmvmQefc3/2253
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsxWHQUf9KuRpk7UlZka_hjJXOWf7ItxuPEg&usqp=CAU"group-title="CANAIS DE ESPORTES",ESPN EXTRA
+http://rec2.distv.net:80/lourival/lourival/145
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQvXjAgAbuaRMEyTrRRH3zgjkAJASAgC4dRFw&usqp=CAU"group-title="CANAIS DE ESPORTES",FOX SPORTS(1)
+http://pe1b.distv.net:8080/Gerson/123456/152
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQvXjAgAbuaRMEyTrRRH3zgjkAJASAgC4dRFw&usqp=CAU"group-title="CANAIS DE ESPORTES",FOX SPORTS(2)
+http://pe1b.distv.net:8080/Gerson/123456/153
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcToQ56zlhUgOG5olPNlHENJLzYcsrYey3WeEg&usqp=CAU"group-title="CANAIS DE ESPORTES",SPORTTV(1)
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856233
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStsa933eL_Ll79I3XfsifI9fToYxKEWxoctw&usqp=CAU"group-title="CANAIS DE ESPORTES",SPORTTV(2)
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856239
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoePFVN8bGpGcbLeRqw6BNHUnui61nLjJq3A&usqp=CAU"group-title="CANAIS DE ESPORTES",SPORTTV(3)
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856245
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSYgEY4Ok0niRC3WJhYV8qj_0rP1v1jQsn_jQ&usqp=CAU"group-title="CANAIS DE ESPORTES",PREMIERE(2)
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856256
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSYgEY4Ok0niRC3WJhYV8qj_0rP1v1jQsn_jQ&usqp=CAU"group-title="CANAIS DE ESPORTES",PREMIERE(3)
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856262
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSYgEY4Ok0niRC3WJhYV8qj_0rP1v1jQsn_jQ&usqp=CAU"group-title="CANAIS DE ESPORTES",PREMIERE(4)
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856266
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSYgEY4Ok0niRC3WJhYV8qj_0rP1v1jQsn_jQ&usqp=CAU"group-title="CANAIS DE ESPORTES",PREMIERE(5)
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856273
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSYgEY4Ok0niRC3WJhYV8qj_0rP1v1jQsn_jQ&usqp=CAU"group-title="CANAIS DE ESPORTES",PREMIERE(6)
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856277
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSYgEY4Ok0niRC3WJhYV8qj_0rP1v1jQsn_jQ&usqp=CAU"group-title="CANAIS DE ESPORTES",PREMIERE(7)
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856281
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTR01pQtnsyMtSuGj9gko8WrMAK0FdYGEKgA&usqp=CAU"group-title="CANAIS DE ESPORTES",PREMIERE CLUBES
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856250
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSfPjdaUd7QxEjxgP5oeDGpEulj79wT9g6iHA&usqp=CAU"group-title="CANAIS DE ESPORTES",DAZN SPORTS
+http://pe1b.distv.net:8080/Gerson/123456/226
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSULMbom6YtKcJaAFVVpN9X7tHTP9sC3JwmWA&usqp=CAU"group-title="CANAIS DE ESPORTES",BAND SPORTS 
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856185
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsAaau0s3M3guzNWY1mIFQowfTVb9fhA1tYA&usqp=CAU"group-title="CANAIS DE ESPORTES",CANAL OFF
+http://tvdns.tech:80/768685875765/768685775775/758134
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRUgWdk5nLkszC9TeyTbcnhEQrngejmhfX0wQ&usqp=CAU"group-title="CANAIS DE ESPORTES",CANAL WOOHOO
+https://origin-02.nxplay.com.br/WOOHOO_NXPLAY/video.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRLznlkT7Vli1qcwvGIIgRsPL641bub-1OWEw&usqp=CAU"group-title="CANAIS DE MUSICAS",MUSIC BOX BRASIL
+http://rec2.distv.net:80/lourival/lourival/171
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSy3MmY6OB8lVWi-qx6cWf41KB4xeJ5WGKaOw&usqp=CAU"group-title="CANAIS DE MUSICAS",VH1 MEGA HITS
+http://tvdns.tech:80/768685875765/768685775775/758139
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRcjM-FwfrI8SEBG-5q1XYoN7lQ1sReBR9rng&usqp=CAU"group-title="CANAIS DE MUSICAS",CANAL BIS
+http://tvdns.tech:80/768685875765/768685775775/758112
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQKhsfvTGOgrJipfuRSTSc8iBb5ppotCu52NQ&usqp=CAU"group-title="CANAIS DE MUSICAS",MTV LIVE BRASIL
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856704
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEW-F5iJHxgPWpiW1IP1k-XLLeH0i5PKaXGQ&usqp=CAU"group-title="CANAIS DE NOTICIAS",BAND NEWS 
+http://tvdns.tech:80/768685875765/768685775775/758151
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSVEOUiKl8bU_-FgrjkCDLBvWJKhMKLhcTpCg&usqp=CAU"group-title="CANAIS DE NOTICIAS",GLOBO NEWS
+http://tvdns.tech:80/768685875765/768685775775/758160
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcREFPwKLwjVHxc34h2iGUbkz0dlbtjVNcchjA&usqp=CAU"group-title="CANAIS DE NOTICIAS",RECORD NEWS
+http://tvdns.tech:80/768685875765/768685775775/758154
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTM0eBSb5oMqWtECVsjvU4isn63drnCk8qpCw&usqp=CAU"group-title="CANAIS DE NOTICIAS",CNN BRASIL
+http://tvdns.tech:80/768685875765/768685775775/758153
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQdNh4tvtSQQxreEMwe9BM9NcuKZftLArluYA&usqp=CAU"group-title="CANAIS DE VARIEDADES",GNT
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856688
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTr4KCoanzEy-XVLiI7OulJE1gIM7HbufHCFg&usqp=CAU"group-title="CANAIS DE VARIEDADES",FOOD NETWORK
+http://tvdns.tech:80/768685875765/768685775775/758105
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSO1TEeeG8y6Q6irqJwINRVCBKw4vhXx0NTsA&usqp=CAU"group-title="CANAIS DE VARIEDADES",MULTISHOW
+http://tvdns.tech:80/768685875765/768685775775/758131
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuo-rQSgQR_DT4srqkwoRoQ7ci0rTMUKlFjg&usqp=CAU"group-title="CANAIS DE VARIEDADES",VIVA
+http://tvdns.tech:80/768685875765/768685775775/758142
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSlYLzjUWbQnR6wL1G47yLTQwoZRoYwYshF3A&usqp=CAU"group-title="CANAIS DE VARIEDADES",MAIS GLOBOSAT
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856698
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQ4-N4bm16gjLlBtkPMhWTTy4226yxhJBX9g&usqp=CAU"group-title="CANAIS DE VARIEDADES",FISHTV
+http://tvdns.tech:80/768685875765/768685775775/757943
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRw6cBnKJXOywQsSMDOVotHKbM6X4boeLke4Q&usqp=CAU"group-title="CANAIS DESENHOS INFANTIL",NICKELODEON
+http://tvdns.tech:80/768685875765/768685775775/758082
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.Sf1AygnhYeFrUn03EUusfwHaFk?pid=ImgDet&rs=1"group-title="CANAIS DESENHOS INFANTIL",TVGLOBINHO
+http://tvdns.tech:80/768685875765/768685775775/758095
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVagmVOdhC2PAgeRToZErITcoUV8VglfQwTw&usqp=CAU"group-title="CANAIS DESENHOS INFANTIL",TOONCAST
+http://tvdns.tech:80/768685875765/768685775775/758096
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVagmVOdhC2PAgeRToZErITcoUV8VglfQwTw&usqp=CAU"group-title="CANAIS DESENHOS INFANTIL",BOOMERANG
+http://tvdns.tech:80/768685875765/768685775775/758055
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRfKUZiSC80LCK4RQqmuViN-pTJq-aa7O2aSQ&usqp=CAU"group-title="CANAIS DESENHOS INFANTIL",NICK JUNIOR 
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856622
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR-dKpWtppBLgNLLZRrq1pYOHhhOSgwCUzb0A&usqp=CAU"group-title="CANAIS DESENHOS INFANTIL",BABYTV
+http://tvdns.tech:80/768685875765/768685775775/758052
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcScxD9FuE23XHKeLAtFcXZ5Mu7j30WYghFJTA&usqp=CAU"group-title="CANAIS DESENHOS INFANTIL",NATGEO KIDS
+http://tvdns.tech:80/768685875765/768685775775/758076
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSoBfKbnVdbVncxgvzHf9WDUxhg3F6ebb448g&usqp=CAU"group-title="CANAIS DESENHOS INFANTIL",DISCOVERY KIDS 
+http://tvdns.tech:80/768685875765/768685775775/758061
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSGdSTF62f5vmRqEKqbCgFxWx5LqZgXxZxROg&usqp=CAU"group-title="CANAIS DESENHOS INFANTIL",CARTOON NETWORK 
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856587
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRtIEgfcl-zQFUEaPgReH8n17D-C2vaHx5GVQ&usqp=CAU"group-title="CANAIS DESENHOS INFANTIL",DISNEY JUNIOR 
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856602
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQEHNGMRPPfnImfD070ovBMX_Iz4vDwRRGrjg&usqp=CAU"group-title="CANAIS DESENHOS INFANTIL",DISNEY XD 
+http://tvdns.tech:80/768685875765/768685775775/758069
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRUwUjKQtadd2AEqd1VvvceaFurRI_78obWlQ&usqp=CAU"group-title="CANAIS DESENHOS INFANTIL",DISNEY CHANNEL
+http://tvdns.tech:80/768685875765/768685775775/758063
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzaJ6V3tZKWIIuch29nd4HoeW7pCdGc5Sn-w&usqp=CAU"group-title="CANAIS DESENHOS INFANTIL",TVRATIMBUM
+http://168.205.87.198:8555/live/elienecp/123456/84.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzgT-ADfjZtVuMxpx2ozjuQ_9UAleyf_9amA&usqp=CAU"group-title="CANAIS DESENHOS INFANTIL",TVGLOOB
+http://tvdns.tech:80/768685875765/768685775775/758074
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ05Hr74SBb_oWOJc4hY8GRQwHcW2Nk5awjog&usqp=CAU"group-title="CANAIS FILMES E SERIES",CINEMAX
+http://tvdns.tech:80/768685875765/768685775775/757970
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTfIFpjKYgrETPuq5fXWb4b_sSfMxVIp6tepQ&usqp=CAU"group-title="CANAIS FILMES E SERIES",FOX STAR CHANNEL
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856100
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTfIFpjKYgrETPuq5fXWb4b_sSfMxVIp6tepQ&usqp=CAU"group-title="CANAIS FILMES E SERIES",FOX STAR LIFE
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856680
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSi5Ia-aZqBeCRKJSx2tjZunmGAiYfZYrEy6w&usqp=CAU"group-title="CANAIS FILMES E SERIES",FOX PREMIUM(1)
+http://rec2.distv.net:80/lourival/lourival/150
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSi5Ia-aZqBeCRKJSx2tjZunmGAiYfZYrEy6w&usqp=CAU"group-title="CANAIS FILMES E SERIES",FOX PREMIUM(2)
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856109
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2M_aLqmtj6lcTF9JUPj8AXKHtogHgEqmuYQ&usqp=CAU"group-title="CANAIS FILMES E SERIES",HBO(1) 
+http://tvdns.tech:80/768685875765/768685775775/758033
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2M_aLqmtj6lcTF9JUPj8AXKHtogHgEqmuYQ&usqp=CAU"group-title="CANAIS FILMES E SERIES",HBO(2)
+http://rec2.distv.net:80/lourival/lourival/157
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2M_aLqmtj6lcTF9JUPj8AXKHtogHgEqmuYQ&usqp=CAU"group-title="CANAIS FILMES E SERIES",HBO PLUS
+http://rec2.distv.net:80/lourival/lourival/160
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSFzNOEl_YNzN1AAJJV05m0O2t1XuGAwpBomA&usqp=CAU"group-title="CANAIS FILMES E SERIES",HBO FAMILY
+http://tvdns.tech:80/768685875765/768685775775/758030
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTPAYhlxTJ4t3Rd27DzJzSAdQFOx-AgCBf0rQ&usqp=CAU"group-title="CANAIS FILMES E SERIES",HBO SIGNATURE
+http://tvdns.tech:80/768685875765/768685775775/758045
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2M_aLqmtj6lcTF9JUPj8AXKHtogHgEqmuYQ&usqp=CAU"group-title="CANAIS FILMES E SERIES",HBO XTREME
+http://tvdns.tech:80/768685875765/768685775775/758048
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2M_aLqmtj6lcTF9JUPj8AXKHtogHgEqmuYQ&usqp=CAU"group-title="CANAIS FILMES E SERIES",HBO POP
+http://tvdns.tech:80/768685875765/768685775775/758041
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2M_aLqmtj6lcTF9JUPj8AXKHtogHgEqmuYQ&usqp=CAU"group-title="CANAIS FILMES E SERIES",HBO MUNDI
+http://tvdns.tech:80/768685875765/768685775775/758035
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtpLW4GQ14HxoDN93_A9k1Qd-yBEzayb2tsA&usqp=CAU"group-title="CANAIS FILMES E SERIES",SPACE
+http://pe1b.distv.net:8080/Gerson/123456/187
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTyC1qh4DTw9o24JALKBml7115VvP8tBmKdGw&usqp=CAU"group-title="CANAIS FILMES E SERIES",PARAMOUNT CHANNEL                
+http://tvdns.tech:80/768685875765/768685775775/757995
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2iR8W5hDvYCAQOCTl_ZtKGyoWIBideTwHOg&usqp=CAU"group-title="CANAIS FILMES E SERIES",MEGAPIX
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856121
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnJwUOfTqUavy5WoSjjy9UUIL5Hwmw4kPeLQ&usqp=CAU"group-title="CANAIS FILMES E SERIES",TELECINE ACTION 
+http://tvdns.tech:80/768685875765/768685775775/757800
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTq3UFJQxFxPFEEMj14QJdxCUYEaeMqjwMv2g&usqp=CAU"group-title="CANAIS FILMES E SERIES",TLC 
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856159
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTGH_bQr9YriJ14k6G8_qYqNvtE6rbPUOmT2w&usqp=CAU"group-title="CANAIS FILMES E SERIES",TELECINE CULT
+http://tvdns.tech:80/768685875765/768685775775/757803
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDcWKsYJDob2doRKLbm3wkwlaz1OJkqaNRlg&usqp=CAU"group-title="CANAIS FILMES E SERIES",SYFY                               
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856148
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTV6It-YkgPI54ED_-iI2t3iBHRQ2xBe4hIYA&usqp=CAU"group-title="CANAIS FILMES E SERIES",TELECINE FUN
+http://tvdns.tech:80/768685875765/768685775775/757806
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR-7dYS-GnmsGLbFILUT_djPJLNXqUAMkROdw&usqp=CAU"group-title="CANAIS FILMES E SERIES",ARTE(1)
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856090
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTAy9XwodcR2TfMbsdG488iX-e3hQYzU02BAA&usqp=CAU"group-title="CANAIS FILMES E SERIES",TELECINE PIPOCA                          
+http://tvdns.tech:80/768685875765/768685775775/757808
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQYVNRY61eoAF7wIk1xzImH9Tfq_slPYfbHaA&usqp=CAU"group-title="CANAIS FILMES E SERIES",CURTA 
+http://tvdns.tech:80/768685875765/768685775775/758117
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQr1GMWlBpCGNauso0A3N_RnowdVUyaCm7SqA&usqp=CAU"group-title="CANAIS FILMES E SERIES",TELECINE PREMIUM
+http://tvdns.tech:80/768685875765/768685775775/757811
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTZ0o181k153MbunTUPEi2fsp0O1YnoV5U31g&usqp=CAU"group-title="CANAIS FILMES E SERIES",LIFETIME
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856693
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNbUIwXfahP-8qbMNj5qC6kOYNdsoA3vWoKw&usqp=CAU"group-title="CANAIS FILMES E SERIES",TELECINE TOUCH
+http://tvdns.tech:80/768685875765/768685775775/757814
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSy65hGdCnRgj0C4XUGAgW8dqsKI1mb08AAQA&usqp=CAU"group-title="CANAIS FILMES E SERIES",COMEDY CENTRAL 
+http://tvdns.tech:80/768685875765/768685775775/758115
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTwsYTzznkgLCLcs5LNrJmYKJy__IYhWVfcg&usqp=CAU"group-title="CANAIS FILMES E SERIES",A&E
+http://tvdns.tech:80/768685875765/768685775775/757961
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQq08A9EBn3ntPnR9PEUEeFAN-3z8_ngMNsag&usqp=CAU"group-title="CANAIS FILMES E SERIES",TCM
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856156
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6VOChtRVacuTNI2w7-DizEsH6qYm-oTPFyA&usqp=CAU"group-title="CANAIS FILMES E SERIES",AXN
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856086
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSgBi3Pi760PNQFY8NM7hYtYoFhosz9nsPGhQ&usqp=CAU"group-title="CANAIS FILMES E SERIES",TNT
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856163
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQt93Ltc8yFovcCeG38tCXjv-SPdarOnoXY3w&usqp=CAU"group-title="CANAIS FILMES E SERIES",TNT SÉRIES
+http://tvdns.tech:80/768685875765/768685775775/758014
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQt93Ltc8yFovcCeG38tCXjv-SPdarOnoXY3w&usqp=CAU"group-title="CANAIS FILMES E SERIES",UNIVERSAL CHANNEL
+http://tvdns.tech:80/768685875765/768685775775/758017
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuSqoH1tUWGZHyJ4e6u6EvjTG95w91YCO_YQ&usqp=CAU"group-title="CANAIS FILMES E SERIES",STUDIO UNIVERSAL
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856140
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSWe6OQQD_gNoFpBfVvPL25KFsAAxzd90BfUQ&usqp=CAU"group-title="CANAIS FILMES E SERIES",WARNER CHANNEL
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856180
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRL-B_SMz3EtDDAsm17H3nKmEYIbQvurRErug&usqp=CAU"group-title="CANAIS FILMES E SERIES",TBS 
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856152
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRL-B_SMz3EtDDAsm17H3nKmEYIbQvurRErug&usqp=CAU"group-title="CANAIS FILMES E SERIES",AMC
+http://tvdns.tech:80/768685875765/768685775775/757964
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0Q3-dah7C0cdPw8aNJJKSaF8qaMe7IpUjCQ&usqp=CAU"group-title="CANAIS FILMES E SERIES",CANAL SONY
+http://pe1b.distv.net:8080/Gerson/123456/123
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQMhAf-3uPLt9x56Iznvg2eW6GjQ3OxY9DzZQ&usqp=CAU"group-title="CANAIS FILMES E SERIES",PRIME BOX BRASIL
+http://pe1b.distv.net:8080/Gerson/123456/185
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRS0KVvV11ZXqxsN-EvXk3q_MPGvITnCAUfQg&usqp=CAU"group-title="CANAIS RELIGIOSOS",GOSPEL MUSIC
+https://stmv1.srvstm.com/gmusic/gmusic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRS0KVvV11ZXqxsN-EvXk3q_MPGvITnCAUfQg&usqp=CAU"group-title="CANAIS RELIGIOSOS",GOSPEL CARTOON
+https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/chunklist_w1120351118.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSeGPw4aNv4c4u3rgZDPCM7x-UOAgVX0bjNtw&usqp=CAU"group-title="CANAIS RELIGIOSOS",REDE SUPER
+http://rec2.distv.net:80/lourival/lourival/277
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHq9ZHXZqH0j8YR2NFyOjbU26s3GUeSaa2jw&usqp=CAU"group-title="CANAIS RELIGIOSOS",REDE GOSPEL
+https://cdn.jmvstream.com:443/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.wp.com/apostolorina.com.br/wp-content/uploads/2016/11/bola-de-neve-logo-preto.png?fit=686%2C604&w=640"group-title="CANAIS RELIGIOSOS",BOLA DE NEVE CHURCH
